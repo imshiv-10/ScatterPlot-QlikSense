@@ -1,0 +1,28 @@
+.qv-object-twodimscatter_v3 div.qv-object-content-container {
+	font: 10px sans-serif;
+}
+
+/*.qv-object-twodimscatter_v3 objects1 {
+	overflow-x: scroll;
+}*/
+
+.qv-object-twodimscatter_v3 .axis path,
+.qv-object-twodimscatter_v3 .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.qv-object-twodimscatter_v3 .dot {
+  stroke: #000;
+}
+
+.qv-object-twodimscatter_v3 g.tick text {
+	
+	
+}
+.qv-object-twodimscatter_v3 rect {
+  fill: transparent;
+  shape-rendering: crispEdges;
+}
+

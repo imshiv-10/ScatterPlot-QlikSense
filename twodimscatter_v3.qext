@@ -1,0 +1,9 @@
+{
+	"name": "Two Dimensional Scatter_v3",
+	"description": "A scatter plot that uses two dimensions",
+	"icon": "table",
+	"type": "visualization",
+	"version": "3.0",
+	"preview": "table",
+	"author": "eCS"
+}
